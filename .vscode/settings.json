@@ -1,0 +1,7 @@
+{
+    "cmake.configureSettings": 
+    {
+        "CMAKE_SYSTEM_NAME":"WindowsStore",
+        "CMAKE_SYSTEM_VERSION": "10.0",
+    }
+}
